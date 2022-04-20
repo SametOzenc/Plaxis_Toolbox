@@ -2,7 +2,7 @@ from easygui import *
 from plxscripting.easy import *
 title = "Plaxis 2D, Set Max Number of Steps Stored"
 button = "Create Model"
-s_i, g_i = new_server('localhost', 10000, password="DAR+uPx$Gm<=a4gv")
+s_i, g_i = new_server()
 
 def user_input():
     msg = "Enter the information below:"
