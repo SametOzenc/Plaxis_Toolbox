@@ -3,19 +3,22 @@
 - A set of simple scripts to automate your daily work.
 ----
 ### max_core_to_use.py
+![image](https://user-images.githubusercontent.com/66252675/164719180-c42a5d72-baf6-4d7e-899a-3d9ea67760c8.png)
 - Changes the number of cores to be used by the solvers in the calculation process for all phases except the Initial phase
 
 ### max_number_of_steps_stored.py
+![image](https://user-images.githubusercontent.com/66252675/164719737-6ec13432-a1ee-4cb5-bf75-48f627c791d5.png)
 - Changes the number of steps of a calculation phase to be stored for all phases except the Initial phase
 
 ### tolerated_error.py
+![image](https://user-images.githubusercontent.com/66252675/164719669-901b69cd-f4d5-486a-8ae8-6af31336d52a.png)
 - Changes the tolerated error value for all phases except the Initial phase
 
 ### updated_mesh.py
-- Activates the Updated Mesh option in all phases except the Initial phase
+- Activates the Updated Mesh option for all phases except the Initial phase
 
 ### updated_mesh_and_water_pressures.py (Plaxis 2D Only)
-- Activates the Updated Mesh and Updated Water Pressures option in all phases except the Initial phase
+- Activates the Updated Mesh and Updated Water Pressures option for all phases except the Initial phase
 
 ### mesh_and_run.py
 - Generates medium element mesh distribution and run the analysis
