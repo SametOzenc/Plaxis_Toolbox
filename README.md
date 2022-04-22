@@ -17,7 +17,7 @@
 ### updated_mesh.py
 - Activates the Updated Mesh option for all phases except the Initial phase
 
-### updated_mesh_and_water_pressures.py (Plaxis 2D Only)
+### updated_mesh_and_water_pressures.py (_Plaxis 2D Only_)
 - Activates the Updated Mesh and Updated Water Pressures option for all phases except the Initial phase
 
 ### mesh_and_run.py
